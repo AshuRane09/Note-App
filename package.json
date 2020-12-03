@@ -1,0 +1,15 @@
+{
+  "name": "notes-app",
+  "version": "0.1.0",
+  "description": "Notes taking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashutosh Rane",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^16.1.1"
+  }
+}
